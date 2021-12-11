@@ -17,3 +17,6 @@ description: >-
 * [Moralis VueJS 3 Boilerplate (Typescript Alternative)](https://github.com/MoralisWeb3/demo-apps/tree/main/vue3-boiler-plate).
 
 ## C# (coming soon)
+
+## Kotlin Android (coming soon)
+* [Moralis Kotlin Android Boilerplate](https://github.com/mobilekosmos/moralis-sdk-android).
